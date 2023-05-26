@@ -1,2 +1,2 @@
 # Neuro-Comp
-Códigos da matéria de Neurociência Computacional da USP 2023.
+Listas da matéria de Neurociência Computacional da USP 2023.
